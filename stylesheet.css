@@ -1,0 +1,386 @@
+body {
+    font-family: verdana;
+}
+
+h1 {
+    color:orangered;
+    border-bottom: 1px solid orangered;
+    top: 2px;
+}
+
+p1 {
+    font-size: 25px;
+    padding-bottom: 5%;
+}
+
+p2 {
+    font-size: 25px;
+    position: absolute;
+    padding-top: 3%;
+    padding-bottom: 5%;
+}
+
+a {
+    color: rgb(233, 32, 32);
+}
+
+p3 {
+    padding-top: 5%;
+    position: absolute;
+    font-size: 20px;
+}
+
+h2 {
+    position: fixed;
+    color:orangered;
+    border-bottom: 1px solid orangered;
+    bottom: 100px;
+    left: 0px;
+}
+
+.topics {
+    position: fixed;
+    bottom: -15px;
+    margin-left: -2%;
+    background-color: rgb(190, 184, 184);
+    left: 0px;
+}
+
+h1 {
+    color:orangered;
+    border-bottom: 1px solid orangered;
+}
+
+p4 {
+    position: fixed;
+    font-size: 15px;
+
+}
+
+h3 {
+    position: fixed;
+    color:orangered;
+    border-bottom: 1px solid orangered;
+}
+
+.visible {
+    top: 50px;
+}
+
+.visi {
+    top: 100px;
+}
+
+.control {
+    top: 150px;
+}
+
+.cont {
+    top: 200px;
+}
+
+.close {
+    position: fixed;
+    left: 780px;
+    top: 150px;
+}
+
+.recoginiton {
+    position: fixed;
+    top: 210px;
+}
+
+.recog {
+    position: fixed;
+    top: 260px; 
+}
+
+.side {
+    position: fixed;
+    height: 60%;
+    right: 0px;
+    bottom: 0px;
+}
+
+.flexibility {
+    position: fixed;
+    top: 300px;  
+}
+
+.flex {
+    position: fixed;
+    top: 360px;
+    margin-right: 200px;
+}
+.shortcut {
+    position: fixed;
+    top: 377px;
+    right: 800px;
+}
+
+.aesthetic {
+    position: fixed;
+    top: 400px;
+}
+
+.aest {
+    position: fixed;
+    top: 455px;
+    margin-right: 200px;
+}
+
+.error {
+    position: fixed;
+    bottom: 380px;
+}
+
+.prevent {
+    position: fixed;
+    bottom: 350px;
+    margin-right: 200px;
+}
+
+.helpdocu {
+    position: fixed;
+    bottom: 280px;
+}
+
+.help {
+    position: fixed;
+    bottom: 230px;
+    margin-right: 200px;
+}
+
+.home {
+    position: fixed;
+    height: 630px;
+    right: 0px;
+    bottom: 0px;
+}
+
+.example {
+    position: fixed;
+    left: 425px;
+    top: 260px;
+}
+
+.task1 {
+    position: fixed;
+    top: 50px;
+}
+
+.work1 {
+    position: fixed;
+    top: 95px;
+    margin-right: 600px;
+}
+
+.weezer {
+    position: fixed;
+    top: 160px;
+}
+
+.weez {
+    position: fixed;
+    top: 210px;
+    margin-right: 600px;
+}
+
+.search {
+    position: fixed;
+    top: 120px;
+    right: 0px;
+}
+
+.weezimg {
+    position: fixed;
+    top: 200px;
+    right: 0px;
+}
+
+.brewers {
+    position: fixed;
+    top: 280px;
+}
+
+.brew {
+    position: fixed;
+    top: 330px;
+    margin-right: 670px;
+}
+
+.brewimg {
+    position: fixed;
+    top: 350px;
+    right: 0px;
+}
+
+.harry {
+    position: fixed;
+    top: 370px;
+}
+
+.potter {
+    position: fixed;
+    top: 420px;
+    margin-right: 600px;
+}
+
+.harryimg {
+    position: fixed;
+    top: 500px;
+    right: 0px;
+}
+
+.potterimg {
+    position: fixed;
+    bottom: 375px;
+    right: 600px;
+}
+
+.tasks {
+    position: fixed;
+    bottom: 95px;
+    left: 180px;
+    font-size: 25px;
+}
+
+.tasklist {
+    position: fixed;
+    bottom: 60px;
+    background-color: rgb(190, 184, 184);
+    left: 180px;
+}
+
+.avatar {
+    position: fixed;
+    top: 120px;
+    right: 0px;
+}
+
+.custom {
+    position: fixed;
+    top: 170px;
+    right: 0px;
+    height: 400px;
+}
+
+.backg {
+    position: fixed;
+    left: 0px;
+    top: 350px;
+}
+
+.profile {
+    position: fixed;
+    left: 600px;
+    bottom: 0px;
+    height: 500px;
+}
+
+.post {
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+    height: 600px;
+}
+
+.plus {
+    position: fixed;
+    right: 500px;
+}
+
+.protoimg {
+    position: fixed;
+    right: 0px;
+}
+
+.proto {
+    position: fixed;
+    margin-right: 1000px;
+    top: -20px;
+}
+
+.change1 {
+    position: fixed;
+    top: 130px;
+}
+
+.trim {
+    position: fixed;
+    top: 180px;
+    margin-right: 1050px
+}
+
+.change2 {
+    position: fixed;
+    top: 290px;
+}
+
+.fresh {
+    position: fixed;
+    top: 340px;
+    margin-right: 1050px
+}
+
+.w98 {
+    position: fixed;
+    left: 0px;
+    top: 420px;
+}
+
+.result1 {
+    position: fixed;
+    bottom: 400px;
+}
+
+.res1 {
+    position: fixed;
+    bottom: 360px;
+    margin-right: 1200px;
+}
+
+.up {
+    position: fixed;
+    right: 0px;
+    top: 100px;
+    height: 400px;
+}
+
+.down {
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+    height: 400px;
+}
+
+.cool {
+    position: fixed;
+    left: 400px;
+    bottom: 0px;
+    height: 300px;
+}
+
+.link1 {
+    font-size: 50px;
+}
+
+.link2 {
+    font-size: 50px;
+}
+
+.link3 {
+    font-size: 50px;
+}
+
+.link4 {
+    font-size: 50px;
+}
+
+.link5 {
+    font-size: 50px;
+}
+
+.link6 {
+    font-size: 50px;
+}
